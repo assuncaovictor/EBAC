@@ -1,0 +1,10 @@
+Muito além de testar aplicações
+
+º Planeja os testes e elabora um roteiro de testes
+º Otimizar processos de teste e desenvolvimento
+º Faz estimativas para seus projetos de testes
+º Prevenir bugs e propor melhorias
+º Desenvolver testes automatizados
+º Avaliar os riscos e impactos nos testes
+º Valida a configuração dos ambientes de testes
+º Participar ativamente das reuniões do time

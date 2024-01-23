@@ -1,0 +1,15 @@
+São habilidades técnicas
+    º Metodologias ágeis
+    º Cultura DevOps
+    º Multidisciplinar
+    º Entendimento de objetivos de negócio
+    º Padrões e práticas de desenvolvimento
+    º Identificação de problemas
+    º Linguagens e frameworks de programação
+    º Automação de testes
+    º Tipos e estratégias de testes
+    º Testes de Segurança
+    º Testes de Performance
+    º Métricas de qualidade
+    º Banco de Dados
+    º Outros conhecimentos de tecnologia e processos de qualidade
